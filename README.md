@@ -1,0 +1,1 @@
+A Windows Forms application for managing restaurant orders. Users can select food items, add them to the order, and calculate the total price. It allows resetting the order and displays a summary. The project uses OOP principles like classes, interfaces, and inheritance.
