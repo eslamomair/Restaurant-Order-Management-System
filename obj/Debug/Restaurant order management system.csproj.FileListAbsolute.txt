@@ -1,0 +1,10 @@
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\bin\Debug\Restaurant order management system.exe.config
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\bin\Debug\Restaurant order management system.exe
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\bin\Debug\Restaurant order management system.pdb
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant order management system.csproj.AssemblyReference.cache
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant_order_management_system.Form1.resources
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant_order_management_system.Properties.Resources.resources
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant order management system.csproj.GenerateResource.cache
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant order management system.csproj.CoreCompileInputs.cache
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant order management system.exe
+C:\Users\m_e39\Desktop\vs\Restaurant order management system\Restaurant order management system\obj\Debug\Restaurant order management system.pdb
